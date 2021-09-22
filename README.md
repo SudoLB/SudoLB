@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[React Projects]("")**
+- 🔭 I’m currently working on **[Databases and APIs]("")**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
