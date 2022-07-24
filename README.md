@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lbsudo100@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I love to game go to the gym and watch anime in my sparing free time.**
 
 ## 🚀 Languages and Tools:
 
